@@ -28,7 +28,7 @@ We create and steward initiatives that press on the service mesh-centric envelop
 
 <p style="clear:both;">
 <h2><a href="https://layer5.io/meshery">Meshery</a></h2>
-<a href="https://meshery.io"><img src=".github/assets/images/meshery/meshery-logo.svg"
+<a href="https://meshery.io"><img src="../assets/meshery-logo.svg"
 style="margin:10px;" width="125px" 
 alt="Meshery - Service Mesh Management Plane" align="left" /></a>
 <a href="https://meshery.io">Meshery</a> is a multi-service mesh management plane offering lifecycle management of more types of service meshes than any other tool available today. 
@@ -38,7 +38,7 @@ Meshery facilitates adopting, configuring, operating and managing performance of
 <br />
 <p style="clear:both;">
 <h2><a href="https://layer5.io/landscape">Service Mesh Landscape</a></h2>
-<a href="https://layer5.io/landscape"><img src=".github/assets/images/buttons/landscape.png"  
+<a href="https://layer5.io/landscape"><img src="../assets/landscape.png"  
 style="float:left;margin:10px;" width="125px" 
 alt="Service Mesh Landscape Ecosystem" align="left"/></a>
 The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
@@ -47,7 +47,7 @@ The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a compre
 <br />
 <p style="clear:both;">
 <h2><a href="https://layer5.io/projects/service-mesh-performance">Service Mesh Performance</a></h2>
-<a href="https://layer5.io/projects/service-mesh-performance"><img src=".github/assets/images/smp-dark-text.svg"
+<a href="https://layer5.io/projects/service-mesh-performance"><img src="../assets/smp-dark-text.svg"
 style="float:left;margin:10px;" width="125px"
 alt="Service Mesh Performance Specification Index" align="left" /></a>
 The <a href="https://layer5.io/projects/service-mesh-performance">Service Mesh Performance</a> (SMP) is a vendor-neutral specification for capturing details of environment and infrastructure details, service mesh and its configuration, service / application details, and bundling of statistical analysis of results.
@@ -56,7 +56,7 @@ The <a href="https://layer5.io/projects/service-mesh-performance">Service Mesh P
 <br />
 <p style="clear:both;">
 <h2><a href="https://layer5.io/projects/image-hub">Image Hub</a></h2>
-<a href="https://layer5.io/projects/image-hub"><img src=".github/assets/images/image-hub/layer5-image-hub.png"
+<a href="https://layer5.io/projects/image-hub"><img src="../assets/layer5-image-hub.png"
 style="float:left;margin:10px;" width="125px"
 alt="Image Hub" align="left" /></a>
 <a href="https://layer5.io/projects/image-hub">Image Hub</a> is a demo application which runs on <a href="https://docs.meshery.io/service-meshes/adapters/consul">Consul</a> and facilitates exploring WebAssembly modules used as Envoy Filters.
@@ -73,7 +73,7 @@ Image Hub supports Envoy-based data planes. It is compatible with and can be dep
 <br />
 <p style="clear:both;">
 <h2><a href="https://github.com/layer5io/learn-layer5">Learn Layer5</a></h2>
-<a href="https://github.com/layer5io/learn-layer5"><img src=".github/assets/images/layer5/5-light-bg.png"
+<a href="https://github.com/layer5io/learn-layer5"><img src="../assets/5-light-bg.png"
 style="margin:10px;" width="125px"
 alt="Layer5" align="left" /></a>
 <a href="https://github.com/layer5io/learn-layer5">Learn Layer5</a> is a sample application for learning how service meshes work which also provides <a href="https://layer5.io/smi">SMI Conformance testing</a>.
@@ -82,7 +82,7 @@ alt="Layer5" align="left" /></a>
 <br />
 <p style="clear:both;">
 <h2><a href="https://layer5.io/smi">Service Mesh Interface Conformance </a></h2>
-<a href="https://layer5.io/smi"><img src=".github/assets/images/smi-conformance/checklist.svg"
+<a href="https://layer5.io/smi"><img src="../assets/checklist.svg"
 style="margin:10px;" width="125px"
 alt="Layer5" align="left" /></a>
 <a href="https://layer5.io/smi">SMI Conformance</a> includes all service mesh projects participating in the Service Mesh Interface specification. It is an easy-to-use, service mesh and SMI-specific tool to give service mesh projects and users a suite of repeatable conformance tests.
@@ -91,7 +91,7 @@ alt="Layer5" align="left" /></a>
 <br />
 <p style="clear:both;">
 <h2><a href="https://layer5.io/smi">GetNightHawk </a></h2>
-<a href="https://getnighthawk.dev/"><img src=".github/assets/images/getnighthawk/layer5-getnighthawk.png"
+<a href="https://getnighthawk.dev/"><img src="../assets/layer5-getnighthawk.png"
 style="margin:10px;" width="125px"
 alt="Layer5" align="left" /></a>
 <a href="https://getnighthawk.dev/">Nighthawk</a> is a Layer 7 (HTTP/HTTPS/HTTP2) performance characterization tool. Nighthawk is Envoy’s load generator and is written in C++. Meshery integrates Nighthawk as one of (currently) three choices of load generator for characterizing and managing the performance of service meshes and their workloads.
@@ -106,7 +106,7 @@ alt="Layer5" align="left" /></a>
 Jump into our <a href="http://slack.layer5.io"><img src=".github/assets/images/slack.png" height="16px" align="bottom" />Slack</a>! Our projects are community-built and welcome collaboration. 👍Be sure to see the <a href="https://docs.google.com/document/d/17OPtDE_rdnPQxmk2Kauhm3GwXF1R5dZ3Cj8qZLKdo5E/edit">Layer5 Community Welcome Guide</a> for a tour of resources available to you.
 </p>
 <p>
-<a href="http://slack.layer5.io"><img alt="Layer5 Service Mesh Community" src=".github/assets/images/buttons/community.png" style="margin-right:10px;" width="125px" align="left" /></a>
+<a href="http://slack.layer5.io"><img alt="Layer5 Service Mesh Community" src="../assets/community.png" style="margin-right:10px;" width="125px" align="left" /></a>
 ✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on the <a href="https://calender.google.com/calendar/b/1?cid=bGF5ZXI1LmlvX2VoMmFhOWRwZjFnNDBlbHZvYzc2MmpucGhzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">community calendar</a>.<br />
 ✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/playlist?list=PL3A-A6hPO2IMPPqVjuzgqNU5xwnFFn3n0">meeting recordings</a>.<br />
 ✔️ <em><strong>Access</strong></em> the <a href="https://drive.google.com/drive/u/4/folders/0ABH8aabN4WAKUk9PVA">Community Drive</a> by completing a community <a href="https://layer5.io/newcomer">Member Form</a>.<br />
